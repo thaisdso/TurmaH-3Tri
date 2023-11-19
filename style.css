@@ -11,4 +11,9 @@ text-align:justify;
 color:brown;
 font-size:30px;
 }
-
+#imagem{
+    height: 150px;
+    width: 150px;
+    padding: 15px;
+    margin: 15px;
+}
