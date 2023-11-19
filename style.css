@@ -1,5 +1,5 @@
 body{
-    background-color:antiquewhite;
+    background-image:linear-gradient(red,orange,yellow)
 }
 #titulo{
     text-align:center;
@@ -17,4 +17,5 @@ font-size:30px;
     padding: 15px;
     margin: 105px;
     border: solid;
+
 }
