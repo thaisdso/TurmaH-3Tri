@@ -22,3 +22,9 @@ body{
 .tilulo{
     background-color: rgb(184, 174, 174);
 }
+
+.lista{
+    font-size: 35px;
+    text-align:center;
+    list-style-position: inside;
+}
