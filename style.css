@@ -6,10 +6,10 @@ body{
     font-size:40px;
     color:red;
 }
-.text {
-text-align:justify;
-color:brown;
-font-size:30px;
+.text{
+    text-align:justify;
+    color:brown;
+    font-size:30px;
 }
 #imagem{
     height: 550px;
