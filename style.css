@@ -1,5 +1,5 @@
 body{
-    background-image:linear-gradient(red,orange,yellow);
+    background-image:linear-gradient(rgb(242, 119, 119),rgb(218, 186, 128),rgb(224, 224, 105));
 }
 #titulo {
     text-align: center;
