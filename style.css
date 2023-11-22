@@ -4,7 +4,7 @@ body{
 #titulo{
     text-align:center;
     font-size:60px;
-    color:red;
+    color:rgb(235, 223, 223);
 }
 .text{
     text-align:justify;
