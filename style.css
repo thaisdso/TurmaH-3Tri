@@ -1,24 +1,24 @@
 body{
     background-image:linear-gradient(red,orange,yellow);
 }
-#titulo{
+#titulo {
     text-align: center;
     font-size: 60px;
     color: rgb(235, 223, 223);
 }
-.text{
+.text {
     text-align: justify;
     color: brown;
     font-size: 30px;
 }
-#imagem{
+#imagem {
     height: 550px;
     width: 550px;
     padding: 15px;
     margin: 105px;
-    border: solid;
+    border:2px solid rgb(213, 200, 200);
 
 }
 .tilulo{
-    background-color: brown;
+    background-color: rgb(184, 174, 174);
 }
