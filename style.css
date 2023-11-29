@@ -3,9 +3,8 @@ body{
 }
 header[
     padding: 20px;
-    background-color:#D9CEC1;
-    border-bottom: 5px;
-
+    background-color:black;
+    border-bottom: 5px solid red;
 ]
 #titulo {
     text-align: left;
