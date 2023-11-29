@@ -1,11 +1,12 @@
 body{
     background-image:linear-gradient(rgb(242, 119, 119),rgb(218, 186, 128),rgb(224, 224, 105));
 }
-header[
+header{
     padding: 20px;
     background-color:black;
     border-bottom: 5px solid red;
-]
+
+}
 #titulo {
     text-align: left;
     font-size: 100px;
@@ -33,8 +34,9 @@ header[
     text-align:center;
     list-style-position: inside;
 }
-
+header{
 h2 {
     text-align: center;
     font: 35px;
+}
 }
