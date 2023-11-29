@@ -5,11 +5,11 @@ header[
     padding: 20px;
     background-color:#D9CEC1;
     border-bottom: 5px;
-    
+
 ]
 #titulo {
-    text-align: center;
-    font-size: 80px;
+    text-align: left;
+    font-size: 100px;
     color: rgb(235, 223, 223);
 }
 .text {
